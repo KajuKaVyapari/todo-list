@@ -17,6 +17,7 @@ _global_script_class_icons={
 
 config/name="Todo List"
 run/main_scene="res://TodoList.tscn"
+boot_splash/image="res://logo.png"
 config/icon="res://logo.png"
 
 [autoload]
